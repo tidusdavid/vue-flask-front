@@ -1,4 +1,4 @@
-# frontend
+# vue-flask-front
 
 ## Project setup
 ```
